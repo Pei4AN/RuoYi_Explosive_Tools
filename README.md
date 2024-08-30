@@ -1,7 +1,5 @@
 # RuoYi_Explosive_Tools
 若依验证码识别爆破工具
-<<<<<<< HEAD
-<<<<<<< HEAD
 根据https://github.com/fupinglee/CalculateCaptcha_Recognition项目基础上结合CHATGPT编写出来的若依验证码识别爆破工具,分为前后端分离版（识别率较低，使用循环来代替）和不分离版。
 ## 1.环境配置
 下载代码
@@ -108,8 +106,6 @@ python3 RY_JsonLogin.py -u http://URL/login -c http://URL/captcha/captchaImage?t
 
 ## 7.参考链接
 https://github.com/fupinglee/CalculateCaptcha_Recognition
+
 https://github.com/fupinglee/Calculate_Captcha
-=======
->>>>>>> affa76a662e2885f68d86212059b888bf3bf8dc9
-=======
->>>>>>> affa76a662e2885f68d86212059b888bf3bf8dc9
+
