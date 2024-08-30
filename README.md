@@ -1,6 +1,6 @@
 # RuoYi_Explosive_Tools
 若依验证码识别爆破工具
-根据```bashhttps://github.com/fupinglee/CalculateCaptcha_Recognition```项目基础上结合CHATGPT编写出来的若依验证码识别爆破工具,分为前后端分离版（识别率较低，使用循环来代替）和不分离版。
+根据```https://github.com/fupinglee/CalculateCaptcha_Recognition```项目基础上结合CHATGPT编写出来的若依验证码识别爆破工具,分为前后端分离版（识别率较低，使用循环来代替）和不分离版。
 ## 1.环境配置
 下载代码
 ```bash
